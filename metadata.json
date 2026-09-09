@@ -1,0 +1,6 @@
+{
+  "name": "Ashish Suvarna - Designer Desk Portfolio",
+  "description": "Interactive physical designer desk portfolio featuring tactile cutting mat, projects archive, tech workspace, and travel memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
