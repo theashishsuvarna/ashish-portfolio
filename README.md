@@ -1,20 +1,40 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Ashish Suvarna — Creative Board Portfolio
 
-# Run and deploy your AI Studio app
+Interactive portfolio showcasing my work across product design, UI/UX, frontend development, and AI-powered products.
 
-This contains everything you need to run your app locally.
+## About
 
-View your app in AI Studio: https://ai.studio/apps/281bc974-9adb-4fbd-8682-913c46ba4d8d
+I am Ashish Suvarna — a Product Designer and Web Developer focused on building polished, functional digital products.
+
+## Projects
+
+- **REVANTA AI** — AI-powered business expansion and market redevelopment
+- **NEXORA** — AI-powered procurement operating system
+- **AIKYA** — Organization intelligence and management SaaS
+- **ZEROCAP** — Trustless delivery platform for freelancers
+- **BUNKGGO** — Hyperlocal event discovery platform
+
+## Tech
+
+React · TypeScript · Vite · Tailwind CSS · AI
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+```bash
+npm install
+npm run dev
+```
 
+## Build
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```bash
+npm run build
+```
+
+## Author
+
+**Ashish Suvarna**
+
+Product Designer · UI/UX · Web Development
+
+LinkedIn: https://linkedin.com/in/a5shish/
