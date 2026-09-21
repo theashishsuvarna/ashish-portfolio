@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M72 15L93 25V75L72 85L32 54L18 65L7 57V43L18 35L32 46L72 15Z" fill="#007ACC"/>
+  <path d="M72 15L93 25V75L72 85V15Z" fill="#1F9CF0"/>
+  <path d="M72 85L32 54L18 65L7 57V43L72 85Z" fill="#0065A9"/>
+  <path d="M72 15L32 46L18 35L7 43V43L72 15Z" fill="#0065A9"/>
+</svg>
